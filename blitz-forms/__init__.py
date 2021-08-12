@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 from statics import STOCK_STYLING
 
+# TODO: Add support for a label as field
+
 class Form(object):
   """
   BlitzForms Form Object.\n\n
